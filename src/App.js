@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
+import Register from './Pages/Register';
+import Preview from './Pages/Preview';
+import Success from './Pages/Success';
 
 function App() {
   return (
